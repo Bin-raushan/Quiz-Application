@@ -1,9 +1,9 @@
 const quizDB=[
     {
-        question: "Q1: Who is the first prime mnister of India?",
-        a: "Indira Gandhi",
+        question: "Q1: Who is the first education mnister of India?",
+        a: "Lal Bahadur sastri",
         b: "V.P Singh",
-        c: "Jawahar lal Nehru",
+        c: "Maulana Abul Kalam Azad",
         d: "Morarji Desai",
         ans: "ans3"
     },
