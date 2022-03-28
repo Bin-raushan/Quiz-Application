@@ -39,6 +39,46 @@ const quizDB=[
         d: "Current",
         ans: "ans3"
     },
+    {
+        question: "Q6: find the missing term in the series 2, 5, 9, 19, 37, ? ",
+        a: "73",
+        b: "55",
+        c: "75",
+        d: "78",
+        ans: "ans3"
+    },
+    {
+        question: "Q7: What is the Full form of HTML ?",
+        a: "Hello Text make Language",
+        b: "Hyper Text Markup Language",
+        c: "Hyper Text Marrkup Land",
+        d: "Hyper Test making language",
+        ans: "ans2"
+    },
+    {
+        question: "Q8: Choose the odd word",
+        a: "Zebra",
+        b: "Lion",
+        c: "Giraffe",
+        d: "Horse",
+        ans: "ans4"
+    },
+    {
+        question: "Q9: What is the currency of  UK?",
+        a: "Taka",
+        b: "Pound",
+        c: "Dollar",
+        d: "Rouble",
+        ans: "ans2"
+    },
+    {
+        question: "Q10: Synonym of word 'Substitute' ?",
+        a: "Replace",
+        b: "Eliminata",
+        c: "Remove",
+        d: "Empty",
+        ans: "ans1"
+    },
    
     
 ]
